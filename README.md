@@ -1,37 +1,60 @@
-# README
+# React Journal App Vite
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A React App for Journal with vite
 
-## What is this repository for?
+## Description
 
-- Quick summary
-  - A React app for Journal with vite
-- Version: 1.0
-- [Author](https://www.linkedin.com/in/felipenavaslederhos)
+A React App for Journal with vite
 
-## How do I get set up?
+## Demo
 
-- Summary of set up
+You can explore a live version of React Journal App Vite at the following URL:
 
-  - `yarn`
-  - `npm install`
+https://Felipe-Navas.github.io/react-journal-app-vite
 
-- How to run the app?
+## Getting Started
 
-  - `yarn start`
-  - `npm start`
+### Dependencies
 
-- How to run the tests?
+- `npm`
+- `node`
 
-  - `yarn test`
-  - `npm test`
-## Contribution guidelines
+### Installing
 
-- Writing tests
-- Code review
-- Other guidelines
+- Clone the repository and install dependencies:
 
-## Who do I talk to?
+```
+git clone https://github.com/Felipe-Navas/react-journal-app-vite.git && cd react-journal-app-vite && npm install
+```
 
-- Repo owner or admin
-- Other community or team contact
+### Executing program
+
+```
+npm start
+```
+
+Preview of the main screen:
+
+<img width="350" src="assets/MainPreview.png" alt="Preview of the main screen" />
+
+### Running tests
+
+```
+npm test
+```
+
+## Authors
+
+- [Felipe Navas](https://www.linkedin.com/in/felipenavaslederhos) - [Email](mailto:felipenavas.itec@gmail.com?subject=[GitHub]%react-journal-app-vite)
+
+## Contributing
+
+1. Fork it (<https://github.com/Felipe-Navas/react-journal-app-vite/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## License
+
+This project is licensed under the [MIT License] - see the LICENSE file for details

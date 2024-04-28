@@ -1,11 +1,21 @@
 {
   "name": "react-journal-app-vite",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "homepage": "https://Felipe-Navas.github.io/react-journal-app-vite",
+  "version": "1.0.0",
+  "description": "A React App for Journal with vite",
+  "main": "/src/main.jsx",
+  "author": "Felipe Navas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipe-Navas/react-journal-app-vite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Felipe-Navas/react-journal-app-vite/issues"
+  },
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "start": "vite",
+    "build": "vite build --base=./",
     "preview": "vite preview"
   },
   "dependencies": {
